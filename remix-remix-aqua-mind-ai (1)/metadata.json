@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Aqua Mind AI",
+  "description": "Intelligent water budgeting, predictive demand forecasting, and explainable conservation analytics for communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
